@@ -1,0 +1,5 @@
+HelloWorld.class
+com/example/HelloWorldWorkflow.class
+com/example/HelloWorldWorker.class
+com/example/HelloWorldWorkflowImpl.class
+com/example/HelloWorldStarter.class
