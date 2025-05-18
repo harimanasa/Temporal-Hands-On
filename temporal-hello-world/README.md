@@ -46,6 +46,6 @@ To run the unit tests, use the following command:
 mvn test
 ```
 
-## License
+## License & Copyrights
 
-This project is licensed under the MIT License.
+This project is created and owned by Manasa Hari.
